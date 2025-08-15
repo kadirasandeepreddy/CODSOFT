@@ -1,0 +1,18 @@
+
+## Task 2 – Password Generator
+
+### Overview
+This Python script generates a random password based on user preferences.  
+The user specifies:
+- Number of letters  
+- Number of numbers  
+- Number of symbols  
+
+The program then randomly selects characters from predefined lists and creates a secure password.
+
+### How to Run
+1. Clone the repository or download the file `python_project_2.py`.
+2. Open a terminal and navigate to the project folder.
+3. Run:
+   ```bash
+   python python_project_2.py
